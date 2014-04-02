@@ -22,5 +22,13 @@
     "element"
   ],
   "author": "saary",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saary/selazy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saary/selazy/issues"
+  },
+  "homepage": "https://github.com/saary/selazy"
 }
